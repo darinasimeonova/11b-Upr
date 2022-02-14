@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveFirs", "RemoveFirs\RemoveFirs.csproj", "{B7F585B7-BAA2-43CB-BA4B-9F58D5637EBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7F585B7-BAA2-43CB-BA4B-9F58D5637EBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7F585B7-BAA2-43CB-BA4B-9F58D5637EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7F585B7-BAA2-43CB-BA4B-9F58D5637EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7F585B7-BAA2-43CB-BA4B-9F58D5637EBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6E07E52-A3E9-4C5C-9EBA-D05005A9B9F3}
+	EndGlobalSection
+EndGlobal
