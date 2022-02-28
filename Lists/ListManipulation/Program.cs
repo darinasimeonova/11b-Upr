@@ -25,7 +25,7 @@ namespace ListManipulation
                     nums.Insert(index, element);
                 }
                 else if (command == "contains")
-                {
+                { 
                     int element = int.Parse(input[1]);
                     Console.WriteLine(nums.IndexOf(element));
 
